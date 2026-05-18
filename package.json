@@ -1,0 +1,21 @@
+{
+  "name": "rotaryclubofvlk",
+  "version": "1.0.0",
+  "description": "Velankanni Green City Rotary Club - Official Website",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Static HTML project - open index.html in browser'",
+    "lint": "echo 'No linter configured for static HTML project'"
+  },
+  "keywords": [
+    "rotary",
+    "velankanni",
+    "green-city",
+    "community-service"
+  ],
+  "author": "Rotary Club of Velankanni Green City",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
